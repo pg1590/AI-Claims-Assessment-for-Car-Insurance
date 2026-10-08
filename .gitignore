@@ -1,0 +1,6 @@
+best.pt
+car-damage.pt
+# Python
+__pycache__/
+*.pyc
+.env
